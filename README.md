@@ -5,9 +5,9 @@ Customer Personality Analysis and Segmentation Project
 
 Project Overview
 
-The aim of this project is to perform customer segmentation by analyzing customer data using exploratory data analysis (EDA), profiling, and unsupervised learning techniques. The goal is to identify distinct customer segments to help the business better understand its customers, their habits, behavior, and needs. Customer segmentation allows the business to tailor products, services, and marketing strategies for different customer groups, thereby optimizing business outcomes.
+This project aims to perform customer segmentation by analyzing customer data using exploratory data analysis (EDA), profiling, and unsupervised learning techniques. The goal is to identify distinct customer segments to help the business better understand its customers, their habits, behavior, and needs. Customer segmentation allows the company to tailor products, services, and marketing strategies for different customer groups, optimizing business outcomes.
 
-1.** Exploratory Data Analysis (EDA) and Profiling**
+1. **Exploratory Data Analysis (EDA) and Profiling**
 
 1.1 EDA Objectives
 
@@ -17,7 +17,7 @@ Data visualization: Use various plotting techniques to gain visual insights.
 
 1.2 Analysis Types
 
-Univariate Analysis: Focuses on examining one feature at a time. This helps in understanding individual variable distributions, detecting outliers, and identifying common trends.
+Univariate Analysis: Focuses on examining one feature at a time. This helps understand individual variable distributions, detect outliers, and identify common trends.
 
 Tools used: Pandas, Numpy, Seaborn, Matplotlib, and Plotly.
 
@@ -27,7 +27,7 @@ Bivariate Analysis: Examines relationships between two variables. It is useful f
 
 Tools used: Seaborn, Matplotlib, and Plotly.
 
-Techniques: Scatter plots, heatmaps, pair plots, and correlation matrices.
+Techniques: Scatter plots, heat maps, pair plots, and correlation matrices.
 
 1.3 Profiling
 
