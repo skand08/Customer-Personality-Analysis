@@ -20,10 +20,13 @@ Data visualization: Use various plotting techniques to gain visual insights.
 Univariate Analysis: Focuses on examining one feature at a time. This helps in understanding individual variable distributions, detecting outliers, and identifying common trends.
 
 Tools used: Pandas, Numpy, Seaborn, Matplotlib, and Plotly.
+
 Techniques: Histograms, box plots, bar charts, and density plots.
+
 Bivariate Analysis: Examines relationships between two variables. It is useful for identifying patterns, correlations, and associations in the data.
 
 Tools used: Seaborn, Matplotlib, and Plotly.
+
 Techniques: Scatter plots, heatmaps, pair plots, and correlation matrices.
 
 1.3 Profiling
@@ -31,17 +34,23 @@ Techniques: Scatter plots, heatmaps, pair plots, and correlation matrices.
 Customer Profiling: Generate profiles for different customer segments based on features like age, income, purchasing behavior, and preferences. This step helps in understanding what defines each cluster and assists in strategic decision-making.
 
 2. Data Preprocessing and Model Creation
+
 2.1 Data Preprocessing Steps
 
 Handling missing values: Impute or remove missing data to maintain data integrity.
+
 Outlier detection and treatment: Identify and manage outliers that can skew clustering results.
+
 Feature scaling: Normalize or standardize features to ensure consistency across different units.
+
 Dimensionality reduction: Use techniques like PCA to reduce the number of features while retaining important information.
 
 2.2 Clustering Techniques (Unsupervised Learning)
 
 Algorithm Selection: Employ clustering algorithms such as K-Means, DBSCAN, or hierarchical clustering.
+
 Model Evaluation: Use metrics like silhouette score, Davies-Bouldin index, or elbow method to evaluate the quality of clusters.
+
 Visualization: Leverage yellowbrick to visualize clusters and identify cluster separability.
 
 2.3 Tools Used
@@ -57,12 +66,15 @@ Create an interactive web dashboard for visualizing customer segments and profil
 3.2 Dashboard Features
 
 Cluster Visualizations: Display the distinct customer segments using scatter plots, bar charts, and pie charts.
+
 Customer Profiles: Show key statistics and common characteristics for each cluster.
+
 Interactive Filters: Allow users to filter and explore data for different customer segments.
 
 3.3 Tools Used
 
 Web Frameworks: Use tools like Plotly Dash or Streamlit for building the web dashboard.
+
 Visualization Libraries: Incorporate Plotly for interactive graphs.
 
 4. Business Implementation
@@ -74,19 +86,25 @@ Help the business better understand its customers by summarizing them into disti
 4.2 Benefits
 
 Targeted Marketing: Tailor marketing strategies to the preferences and needs of different customer groups.
+
 Product Customization: Modify existing products or develop new ones based on the preferences of specific segments.
+
 Customer Retention: Implement targeted retention strategies for high-value segments, improving customer loyalty.
 
 5. EDA and Profiling Tools
 
 Pandas: Data manipulation and analysis.
+
 Numpy: Numerical operations.
+
 Seaborn & Matplotlib: Data visualization.
+
 Plotly: Interactive plotting for the dashboard.
 
 6. Data Preprocessing and Model Creation Libraries
 
 scikit-learn: Clustering algorithms, preprocessing techniques.
+
 yellowbrick: Visual diagnostics for model evaluation.
 
 Summary
